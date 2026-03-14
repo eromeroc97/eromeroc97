@@ -1,18 +1,18 @@
-# ¡Hola! Soy Eugenio Romero 👋
+# ¡Hola! Soy Eugenio 👋
 
 ### 🛡️ Investigador en Ciberseguridad | 💻 Desarrollador Full Stack | 🔗 Entusiasta de Blockchain
 
-Soy Ingeniero Informático e investigador en el grupo **GSyA** (UCLM). Me apasiona el diseño de software seguro, la protección de entornos distribuidos (IoT / Smart Homes) y la integración de tecnologías descentralizadas. Disfruto tanto destripando vulnerabilidades en entornos controlados como construyendo soluciones robustas desde cero.
+Soy Ingeniero Informático e investigador en el grupo **GSyA** (UCLM). Me apasiona el diseño de software seguro, la protección de entornos distribuidos y la integración de tecnologías descentralizadas. Disfruto tanto destripando vulnerabilidades en entornos controlados como construyendo soluciones robustas desde cero.
 
 ---
 
 ### 🚀 Sobre mí
 
-- 🔭 **Actualmente trabajando en:** Investigación de ciberseguridad aplicada a IoT, desarrollando middleware de comunicaciones y *smart contracts* para entornos distribuidos.
+- 🔭 **Actualmente trabajando en:** Investigación de ciberseguridad aplicada a IoT.
 - 🌱 **Actualmente explorando:** Profundizando en DevSecOps, inteligencia distribuida y técnicas avanzadas de gestión de riesgos.
 - 👯 **Busco colaborar en:** Herramientas *open-source* de seguridad, proyectos Web3/Blockchain, o desarrollo de retos CTF (*Capture The Flag*).
-- 💬 **Pregúntame sobre:** Diseño de software seguro, Blockchain, arquitecturas Java/Node.js o cómo securizar una Smart Home.
-- ⚡ **Dato curioso:** Coordino un Club de Ciberseguridad y ayudo a organizar torneos Hack&Win. ¡Siempre dispuesto a un buen reto!
+- 💬 **Pregúntame sobre:** Diseño de software seguro, Blockchain y las arquitecturas Java/Node.js.
+- ⚡ **Dato curioso:** Coordino un Club de Ciberseguridad y ayudo a organizar torneos CTF. ¡Siempre dispuesto a un buen reto!
 
 ---
 
@@ -43,10 +43,3 @@ Soy Ingeniero Informático e investigador en el grupo **GSyA** (UCLM). Me apasio
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eromeroc97&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
 </p>
-
----
-
-### 📫 Cómo contactarme
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eugenio-romero-ciudad-362272290/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eugenio.romero@uclm.es)
