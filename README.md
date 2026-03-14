@@ -36,17 +36,17 @@ Soy Ingeniero Informático e investigador en el grupo **GSyA** (UCLM). Me apasio
 ### 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Eugenio" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical&hide_border=true" alt="Racha de contribuciones" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eromeroc97&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Eugenio" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eromeroc97&theme=radical&hide_border=true" alt="Racha de contribuciones" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eromeroc97&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
 ---
 
 ### 📫 Cómo contactarme
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/eugenio-romero-ciudad-362272290/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eugenio.romero@uclm.es)
