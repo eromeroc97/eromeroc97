@@ -48,5 +48,5 @@ Soy Ingeniero Informático e investigador en el grupo **GSyA** (UCLM). Me apasio
 
 ### 📫 Cómo contactarme
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/eugenio-romero-ciudad-362272290/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eugenio-romero-ciudad-362272290/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eugenio.romero@uclm.es)
